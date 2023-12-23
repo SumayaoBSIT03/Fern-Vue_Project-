@@ -1,0 +1,104 @@
+{
+  "appointments": [
+    {
+      "id": 1,
+      "title": "Research Assistance",
+      "description": "Assist patrons with research queries.",
+      "employee_id": 10,
+      "appointment_date": "2023-12-21",
+      "status": "Scheduled",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 2,
+      "title": "Story Time for Kids",
+      "description": "Conduct a storytime session for children.",
+      "employee_id": 2,
+      "appointment_date": "2023-12-22",
+      "status": "Scheduled",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 3,
+      "title": "Book Club Meeting",
+      "description": "Organize and lead a book club discussion.",
+      "employee_id": 9,
+      "appointment_date": "2023-12-23",
+      "status": "Completed",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 4,
+      "title": "Library Orientation",
+      "description": "Conduct a library orientation session.",
+      "employee_id": 10,
+      "appointment_date": "2023-12-24",
+      "status": "Scheduled",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 5,
+      "title": "Research Workshop",
+      "description": "Facilitate a workshop on research methodologies.",
+      "employee_id": 4,
+      "appointment_date": "2023-12-25",
+      "status": "Scheduled",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 6,
+      "title": "Digital Resources Training",
+      "description": "Provide training on using digital library resources.",
+      "employee_id": 3,
+      "appointment_date": "2023-12-26",
+      "status": "Completed",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 7,
+      "title": "Children's Story Hour",
+      "description": "Host a storytelling session for kids.",
+      "employee_id": 5,
+      "appointment_date": "2023-12-27",
+      "status": "Scheduled",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 8,
+      "title": "Archival Preservation Workshop",
+      "description": "Conduct a workshop on archival preservation.",
+      "employee_id": 6,
+      "appointment_date": "2023-12-28",
+      "status": "Scheduled",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 9,
+      "title": "Literary Discussion Group",
+      "description": "Lead a discussion on literary works.",
+      "employee_id": 2,
+      "appointment_date": "2023-12-29",
+      "status": "Completed",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 10,
+      "title": "Library Technology Seminar",
+      "description": "Host a seminar on library technology advancements.",
+      "employee_id": 9,
+      "appointment_date": "2023-12-30",
+      "status": "Scheduled",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    }
+  ]
+}

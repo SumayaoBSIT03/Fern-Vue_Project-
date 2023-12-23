@@ -1,0 +1,94 @@
+{
+  "staffs": [
+    {
+      "id": 1,
+      "full_name": "Evelyn Johnson",
+      "email": "evelyn.johnson@library.org",
+      "position": "Librarian",
+      "department": "Reference Section",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 2,
+      "full_name": "Oliver Martinez",
+      "email": "oliver.martinez@library.org",
+      "position": "Library Assistant",
+      "department": "Circulation Desk",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 3,
+      "full_name": "Sophia Williams",
+      "email": "sophia.williams@library.org",
+      "position": "Head Librarian",
+      "department": "Administration",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 4,
+      "full_name": "Daniel Brown",
+      "email": "daniel.brown@library.org",
+      "position": "Cataloging Specialist",
+      "department": "Technical Services",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 5,
+      "full_name": "Ava Clark",
+      "email": "ava.clark@library.org",
+      "position": "Archivist",
+      "department": "Special Collections",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 6,
+      "full_name": "Lucas Rodriguez",
+      "email": "lucas.rodriguez@library.org",
+      "position": "Library Technician",
+      "department": "Media Services",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 7,
+      "full_name": "Emma Garcia",
+      "email": "emma.garcia@library.org",
+      "position": "Youth Services Librarian",
+      "department": "Children's Section",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 8,
+      "full_name": "Liam Thompson",
+      "email": "liam.thompson@library.org",
+      "position": "Library Clerk",
+      "department": "Acquisitions",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 9,
+      "full_name": "Mia Lewis",
+      "email": "mia.lewis@library.org",
+      "position": "Reference Librarian",
+      "department": "Reference Section",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 10,
+      "full_name": "Noah Carter",
+      "email": "noah.carter@library.org",
+      "position": "Library Assistant",
+      "department": "Circulation Desk",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    }
+  ]
+}
